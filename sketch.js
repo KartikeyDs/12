@@ -97,7 +97,7 @@ question_b_Img = loadAnimation("/question box/q_0.png","/question box/q_1.png","
 mob_Img = loadAnimation("/Mob/m_1.png","/Mob/m_2.png","/Mob/m_3.png","/Mob/m_4.png","/Mob/m_5.png","/Mob/m_6.png","/Mob/m_7.png","/Mob/m_8.png",)
 x = loadAnimation("/Hero b/b_0.png","/Hero b/b_1.png","/Hero b/b_2.png","/Hero b/b_3.png","/Hero b/b_4.png","/Hero b/b_5.png","/Hero b/b_6.png","/Hero b/b_7.png","/Hero b/b_8.png","/Hero b/b_9.png","/Hero b/b_10.png","/Hero b/b_11.png","/Hero b/b_12.png","/Hero b/b_13.png","/Hero b/b_14.png","/Hero b/b_15.png","/Hero b/b_16.png",)
 //y = loadAnimation("/Hero c/c_0.png","/Hero c/c_1","/Hero c/c_2","/Hero c/c_3  ","/Hero c/c_4","/Hero c/c_5","/Hero c/c_6","/Hero c/c_7","/Hero c/c_8","/Hero c/c_9","/Hero c/c_10","/Hero c/c_11","/Hero c/c_12","/Hero c/c_13","/Hero c/c_14","/Hero c/c_15","/Hero c/c_16",)
-coin_Img = loadAnimation("/coin/co_0.png","/coin/co_1.png","/coin/co_2.png","/coin/co_3.png","/coin/co_4.png","/coin/co_5.png");
+coin_Img = loadAnimation("/coin/co0.png","/coin/co1.png","/coin/co2.png","/coin/co3.png","/coin/co4.png","/coin/co5.png");
 
 }
 
